@@ -1,12 +1,13 @@
 import React from 'react';
 import { 
-  Default 
+  Default,
+  Pagination 
 } from './components'
 
 function App() {
   return (
     <>
-      Default
+      <Pagination />
     </>
   );
 }
