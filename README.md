@@ -1,2 +1,0 @@
-# swiperreact
-Simple Swiper React
