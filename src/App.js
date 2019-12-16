@@ -1,13 +1,14 @@
 import React from 'react';
 import { 
   Default,
-  Pagination 
+  Pagination,
+  CubeEffect 
 } from './components'
 
 function App() {
   return (
     <>
-      <Pagination />
+      <CubeEffect />
     </>
   );
 }
