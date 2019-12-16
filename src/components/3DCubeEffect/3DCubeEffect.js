@@ -7,7 +7,7 @@ const CubeEffect = () => {
     effect: 'cube',
     grabCursor: true,
     cubeEffect: {
-      shadow: false,
+      shadow: true,
       slideShadows: true,
       shadowOffset: 10,
       shadowScale: 0.94,

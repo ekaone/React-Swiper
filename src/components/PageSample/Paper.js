@@ -8,7 +8,7 @@ const useStyles = makeStyles(theme => ({
     padding: theme.spacing(3, 2),
     width: '300px',
     height: '300px',
-    backgroundColor: 'purple'
+    backgroundColor: 'yellow'
   },
 }));
 
