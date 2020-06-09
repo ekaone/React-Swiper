@@ -3,7 +3,8 @@
 React wrapper for Swiper.js
 
 🌎 More details [Swiper JS](https://swiperjs.com/)
-🌎 More `props` components from [React ID Swiper](https://github.com/kidjp85/react-id-swiper)
+
+🌎 Another `props` components from [React ID Swiper](https://github.com/kidjp85/react-id-swiper)
 
 ## Usage
 
